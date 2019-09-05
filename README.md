@@ -319,7 +319,7 @@ public class SecurityProperties {
 Add the following Spring configuration class.
 
 ```java
-import com.ashu.resource.server.config.props.SecurityProperties;
+import com.ashu.oauth.server.config.props.SecurityProperties;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

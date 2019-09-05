@@ -1,4 +1,4 @@
-package com.ashu.resource.server.web;
+package com.ashu.oauth.server.web;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.ashu.resource.server.config.props;
+package com.ashu.oauth.server.config.props;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.core.io.Resource;

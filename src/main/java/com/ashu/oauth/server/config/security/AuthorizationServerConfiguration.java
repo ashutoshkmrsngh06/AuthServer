@@ -1,4 +1,4 @@
-package com.ashu.resource.server.config.security;
+package com.ashu.oauth.server.config.security;
 
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Bean;
@@ -18,7 +18,7 @@ import org.springframework.security.oauth2.provider.token.store.JwtAccessTokenCo
 import org.springframework.security.oauth2.provider.token.store.JwtTokenStore;
 import org.springframework.security.oauth2.provider.token.store.KeyStoreKeyFactory;
 
-import com.ashu.resource.server.config.props.SecurityProperties;
+import com.ashu.oauth.server.config.props.SecurityProperties;
 
 import javax.sql.DataSource;
 import java.security.KeyPair;

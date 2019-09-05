@@ -1,4 +1,4 @@
-package com.ashu.resource.server.config.security;
+package com.ashu.oauth.server.config.security;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.oauth2.config.annotation.web.configuration.EnableResourceServer;

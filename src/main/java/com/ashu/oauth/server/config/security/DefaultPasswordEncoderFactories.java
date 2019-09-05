@@ -1,4 +1,4 @@
-package com.ashu.resource.server.config.security;
+package com.ashu.oauth.server.config.security;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.DelegatingPasswordEncoder;

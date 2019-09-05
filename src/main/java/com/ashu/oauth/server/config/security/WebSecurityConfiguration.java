@@ -1,4 +1,4 @@
-package com.ashu.resource.server.config.security;
+package com.ashu.oauth.server.config.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.security.authentication.AuthenticationManager;
